@@ -11,3 +11,6 @@ DANISH1→0→1→7→2→u→0→_→a→1→7→2
 DANISH1→0→2→7→8→u→0→_→a→2→7→8
 DANISH1→0→2→4→8→u→0→_→a→2→4→8 x
 DANISH1→0→2→8→9→u→0→_→a→2→8→9 hrsh
+YOUR  KEY : DANISH1→0→2→6→8→u→0→_→a→2→6→8
+YOUR  KEY : DANISH1→0→2→8→2→u→0→_→a→2→8→2
+YOUR  KEY : DANISH1→0→2→5→7→u→0→_→a→2→5→7
