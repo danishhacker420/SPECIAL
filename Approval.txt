@@ -15,7 +15,6 @@ YOUR  KEY : DANISH1→0→2→6→8→u→0→_→a→2→6→8
 YOUR  KEY : DANISH1→0→2→8→2→u→0→_→a→2→8→2
 YOUR  KEY : DANISH1→0→2→5→7→u→0→_→a→2→5→7
 DANISH1→0→3→3→6→u→0→_→a→3→3→6
-DANISH1→0→3→1→9→u→0→_→a→3→1→9
 DANISH1→0→2→5→8→u→0→_→a→2→5→8
 YOUR  KEY : DANISH1→0→2→2→6→u→0→_→a→2→2→6
 YOUR  KEY : DANISH1→0→2→6→5→u→0→_→a→2→6→5
